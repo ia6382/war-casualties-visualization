@@ -1,4 +1,4 @@
-# war-casualties-visualization
+# War Casualties Visualization
 
 ## About
 We all know that the two World Wars were one of the most devastating conflicts in human history. But how do they compare to previous wars? Is the 20th century truly the most violent period? 
